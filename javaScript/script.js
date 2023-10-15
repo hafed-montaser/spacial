@@ -23,18 +23,22 @@ let my_link5 = document.getElementById("my_link5");
 my_link.onclick =function(){
    myNav.classList.remove("open");
    myList.style.display="block";
+    showClose.classList.remove("colse-list-show");
 }
 my_link2.onclick =function(){
    myNav.classList.remove("open");
    myList.style.display="block";
+   showClose.classList.remove("colse-list-show");
 }
 my_link3.onclick =function(){
    myNav.classList.remove("open");
     myList.style.display="block";
+    showClose.classList.remove("colse-list-show");
 }
 my_link4.onclick =function(){
    myNav.classList.remove("open");
     myList.style.display="block";
+    showClose.classList.remove("colse-list-show");
 }
 my_link5.onclick =function(){
    myNav.classList.remove("open");
