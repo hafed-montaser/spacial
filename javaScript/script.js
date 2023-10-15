@@ -43,6 +43,7 @@ my_link4.onclick =function(){
 my_link5.onclick =function(){
    myNav.classList.remove("open");
     myList.style.display="block";
+    showClose.classList.remove("colse-list-show");
 }
 // ---------------------------
 // =========== nav a focase===========
