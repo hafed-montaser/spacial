@@ -75,6 +75,7 @@ header .logo{
     font-size: 30px;
     font-weight: 600;
     font-family: 'Italianno', cursive;
+    color:var(--main-color);
 }
 .open-list,.close-list{
     display: none
