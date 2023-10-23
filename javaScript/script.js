@@ -100,9 +100,9 @@ toTop.onclick = function(){
        duration:2000,
        delay:200
     });
-    ScrollReveal().reveal('.content-home p, .image-home, .heading', { origin: `top`});
+    ScrollReveal().reveal(' .content-home h1,.image-home, .heading', { origin: `top`});
     ScrollReveal().reveal(' .cont-serv, .content-skills, .conact-me form', { origin: `bottom`});
-    ScrollReveal().reveal('.content-home h1, .my-info', { origin: `left`});
+    ScrollReveal().reveal(' .my-info', { origin: `left`});
     ScrollReveal().reveal('.cont-me-text', { origin: `right`});
 
      /*================ typed js =========================== */ 
