@@ -583,7 +583,7 @@ circle{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     gap: 20px;
     align-content: center;
     align-items: center;
@@ -603,7 +603,6 @@ circle{
     align-items: center;
     gap: 29px;
     flex-direction: column;
-    flex-wrap: wrap;
     align-content: center;
     border-radius: 10px;
     transition: 1s;
